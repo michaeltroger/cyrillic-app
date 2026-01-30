@@ -32,4 +32,4 @@ Para mais informações sobre como o Google processa os seus dados de pagamento,
 Para mais informações sobre como a Apple processa os seus dados de pagamento, consulte a [Política de Privacidade da Apple](https://www.apple.com/legal/privacy/).
 
 ### Publicidade e rastreamento
-A aplicação **não contém publicidade** e **não realiza qualquer tipo de rastreamento ou análise**.
+A aplicação **não contém publicidade** e **não realiza qualquer rastreamento**.

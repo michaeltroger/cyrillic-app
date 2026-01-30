@@ -32,4 +32,4 @@ Pour plus d’informations sur la manière dont Google traite vos données de pa
 Pour plus d’informations sur la manière dont Apple traite vos données de paiement, veuillez consulter la [politique de confidentialité d’Apple](https://www.apple.com/legal/privacy/).
 
 ### Publicité et suivi
-L’application **ne contient aucune publicité** et **n’effectue aucun suivi ni aucune analyse**.
+L’application **ne contient aucune publicité** et **n’effectue aucun suivi**.

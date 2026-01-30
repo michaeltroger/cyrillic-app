@@ -32,4 +32,4 @@ For more information about how Google processes your payment data, please refer 
 For more information about how Apple processes your payment data, please refer to [Apple’s Privacy Policy](https://www.apple.com/legal/privacy/).
 
 ### Ads & Tracking
-The app contains **no ads** and performs **no tracking or analytics**.
+The app contains **no ads** and performs **no tracking**.

@@ -32,4 +32,4 @@ Weitere Informationen zur Verarbeitung Ihrer Zahlungsdaten durch Google finden S
 Weitere Informationen zur Verarbeitung Ihrer Zahlungsdaten durch Apple finden Sie in der [Datenschutzerklärung von Apple](https://www.apple.com/legal/privacy/).
 
 ### Werbung & Tracking
-Die App enthält **keine Werbung** und führt **kein Tracking oder keine Analysen** durch.
+Die App enthält **keine Werbung** und führt **kein Tracking** durch.
