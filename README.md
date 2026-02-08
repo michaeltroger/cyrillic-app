@@ -8,9 +8,6 @@ A simple web (online) version is available at [cyrillic.app](https://cyrillic.ap
 <a href='https://play.google.com/store/apps/details?id=at.mikenet.serbianlatintocyrillic&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>
 <img alt='Get it on Google Play' src='images/googleplay.png' height=80>
 </a>
-<a href="https://f-droid.org/packages/at.mikenet.serbianlatintocyrillic">
-<img src="images/fdroid.png" alt="Get it on F-Droid" height=80>
-</a>
 
 # Report Issues
 Open [an issue](https://github.com/michaeltroger/cyrillic-app/issues) if you find a problem in the app.
