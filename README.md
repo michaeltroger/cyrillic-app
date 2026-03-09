@@ -12,9 +12,6 @@ A simple web (online) version is available at [cyrillic.app](https://cyrillic.ap
 # Report Issues
 Open [an issue](https://github.com/michaeltroger/cyrillic-app/issues) if you find a problem in the app.
 
-# Business Logic
-The business logic is open source and available as a [KMP (Kotlin Multiplatform) library](https://github.com/michaeltroger/latin-to-cyrillic-kmp).
-
 # License
 The source code of this project intentionally does not provide a license. This means it is under my exclusive copyright.
 
