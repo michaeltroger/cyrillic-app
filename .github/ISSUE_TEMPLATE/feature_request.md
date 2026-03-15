@@ -1,20 +1,34 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
-
+about: Suggest a new feature or improvement
+title: "[FEATURE] "
+labels: enhancement
+assignees: ""
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+## 🚀 Feature Description
+A clear and concise description of the feature you'd like to see.
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+## 💡 Problem / Motivation
+What problem does this feature solve?  
+Why would it be useful?
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+## 📱 Platform
+Where should this feature be available?
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+- [ ] Web App
+- [ ] iOS App
+- [ ] Android App
+- [ ] All Platforms
+
+## ✏️ Proposed Solution
+Describe the solution you'd like.
+
+## 🔄 Alternatives Considered
+Describe any alternative solutions or features you've considered.
+
+## 📷 Mockups / Examples
+If applicable, add screenshots, mockups, or examples.
+
+## 📋 Additional Context
+Add any other context or information about the feature request here.
