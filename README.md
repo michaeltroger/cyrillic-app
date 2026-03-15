@@ -1,10 +1,13 @@
 # Cyrillic Transliterator / cyrillic.app
 
-Transliterate Latin (Latinica) ↔ Cyrillic (Ћирилица) for Serbian, Russian, and other Slavic alphabets using international standards.  
+⚠️ **Note:** This GitHub repository is **for issue reporting only**. The app itself is available online and via mobile stores. This repo does **not** contain the source code.
 
+Transliterate Latin (Latinica) ↔ Cyrillic (Ћирилица) for Serbian, Russian, and other Slavic alphabets using international standards.
+
+---
+
+## Access the App
 Web version: [cyrillic.app](https://cyrillic.app)
-
-## Download
 
 <a href="https://apps.apple.com/app/cyrillic-to-latin/id6758277969">
 <img src="images/appstore.png" alt="Download on the App Store" height=80>
